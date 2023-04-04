@@ -3,4 +3,4 @@
 
 
 Credentials:
-1. Navbar - codepen.io - m_c: <a href="https://codepen.io/cyphem/pen/oNjEyzg" target="_blank">Click here.</a>.<br>
+1. Logo - <a href="https://www.flaticon.com/free-icons/hungry" title="hungry icons">Hungry icons created by Smashicons - Flaticon</a>
